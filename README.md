@@ -1,7 +1,7 @@
 ## Yedda Mae Abarra
  [<img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/yeddamaeabarra/)
 
-
+<img src="20181214_003517000_iOS.jpg" width="480"/>
 
 #### About Me
 
