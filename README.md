@@ -3,9 +3,14 @@
 
 
 
-#### Markdown
+#### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm inspired by dynamic learning. 
+
+I'm a 4th year French and Business Co-op student at the University of Waterloo. Originally from Mississauga, Ontario, I have nearly two years of marketing experience in software, engineering consulting, and e-commerce in the GTA.
+
+
+I view myself as more than what my traditional education entails. Through my studies and experience, I am an observer of culture. It allows me to have a critical view of the world around me and the many networks and systems in place. I believe in clear and concise communication. When faced with a problem, I tackle it with creativity and realistic measures. 
 
 ```markdown
 Syntax highlighted code block
