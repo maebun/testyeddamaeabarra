@@ -13,13 +13,13 @@ I view myself as more than what my traditional education entails. Through my stu
 
 ## My Experience
 
-#### **Microsoft** , Developer Community Associate
+**Microsoft** , Developer Community Associate
 
 January - August 2018
 
 Program Manager Intern for Microsoft's Commercial Software Engineering (CSE)
 
-#### **CIMA+** , Marketing & Proposals Coordinator
+**CIMA+** , Marketing & Proposals Coordinator
 
 January - August 2018
 
@@ -27,7 +27,7 @@ CIMA+ is a multidisciplinary firm that specializes in engineering, project manag
 
 
 
-#### **Buytopia (EMERGE)** , Customer Relations & Operations Specialist
+**Buytopia (EMERGE)** , Customer Relations & Operations Specialist
 
 September - December 2016
 
