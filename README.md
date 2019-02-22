@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Yedda Mae Abarra
+ [<img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/yeddamaeabarra/)
 
-You can use the [editor on GitHub](https://github.com/maebun/yeddamae/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,6 +24,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
